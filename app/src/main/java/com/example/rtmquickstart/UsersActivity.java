@@ -81,11 +81,11 @@ public class UsersActivity extends AppCompatActivity {
             public void onClick(View view) {
                 uid = userInput.getText().toString();
                 if(uid.equals("1001")){
-                    token = "007eJxTYLDXPPejV2/C0ZZ5MwKmNppUyEccVaxNELp16DVn4crexMkKDJZJFkaJJonmhpapRiZpqUYWBmmpZqZGaakGZmlGaWZJIjuSUxoCGRkYf01hBZIMLEAM4jOBSWYwyQImORkMDQwM44GEEQMDACf9Ifs=";
-                    rtmTokenString = "0069b82a4a719e24fe280fe652fe06f2f6bIACNlSjiwCN6IQcZtuHMmAqT0hIXFUgCGjFCWtwb5uYXg4GTIMMAAAAAEAB+IO9LoAplZAEA6AOgCmVk";
+                    token = "007eJxTYIgVjr047cefkjtzjlc9/tPkt+bztkA/FmmRQ1ksBVv297ApMFgmWRglmiSaG1qmGpmkpRpZGKSlmpkapaUamKUZpZkl/RFMT2kIZGRYGDqBlZGBkYEFiEF8JjDJDCZZwCQng6GBgWE8kDBiYAAA2Msjhg==";
+                    rtmTokenString = "0069b82a4a719e24fe280fe652fe06f2f6bIABuLVmkw7rjbbAhB1v0ivOcXwL4vgeJfEVc7/jZgahJNIGTIMMAAAAAEABqAF/hd2RoZAEA6AN3ZGhk";
                 }else if(uid.equals("1002")){
-                    token = "007eJxTYLDIPKlWfqF//xPFi5/DU2Xv9imfyHS+oeVpszj17D7d/loFBsskC6NEk0RzQ8tUI5O0VCMLg7RUM1OjtFQDszSjNLMk5x3JKQ2BjAyR+WaMjAyMDCxADOIzgUlmMMkCJjkZDA0MDOOBhBEDAwBb2CIw";
-                    rtmTokenString = "0069b82a4a719e24fe280fe652fe06f2f6bIAAA0rM95oAH7Ci3V9y6fjc8cZZKwQvN+GPgxhUtmyMYHDvCKVoAAAAAEAB+IO9LzAplZAEA6APMCmVk";
+                    token = "007eJxTYGhI9O2+mcSnwrl81ZMbDFa2h7Yt51x74bjfVJspqS0yJTcUGCyTLIwSTRLNDS1TjUzSUo0sDNJSzUyN0lINzNKM0sySrgilpzQEMjK0PF/GysjAyMACxCA+E5hkBpMsYJKTwdDAwDAeSBgxMAAAFwIiPQ==";
+                    rtmTokenString = "0069b82a4a719e24fe280fe652fe06f2f6bIABN6fid29y0xW5dC8vkXj7HkgshjPGCmDBGSZnW9pzS6zvCKVoAAAAAEABqAF/hiGRoZAEA6AOIZGhk";
                 }
                 doLogin();
             }
