@@ -1,0 +1,20 @@
+<!--
+  ~ Copyright (c) 2023. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">RtmQuickstart</string>
+    <string name="login_button">Login</string>
+    <string name="logout_button">Logout</string>
+    <string name="join_button">Join</string>
+    <string name="leave_button">Leave</string>
+    <string name="send_peer_msg_button">Peer MSG</string>
+    <string name="send_channel_msg_button">Group MSG</string>
+    <string name="uid">Enter your uid</string>
+    <string name="msg">Enter your message</string>
+    <string name="channel_name">Channel name</string>
+    <string name="peer_name">Peer name</string>
+    <string name="app_id">9b82a4a719e24fe280fe652fe06f2f6b</string>
+    <string name="token">007eJxTYGBtON+tKld3ZYLtlG0WDryHLt0wy7Tf+X523P+1y4sm1AkqMFgmWRglmiSaG1qmGpmkpRpZGKSlmpkapaUamKUZpZkl/d+UmNIQyMgwIcuGhZGBkYEFiEF8JjDJDCZZwCQng6GBgWE8kDBiYAAAYW8i4g==</string>
+</resources>
