@@ -85,7 +85,7 @@ public class UsersActivity extends AppCompatActivity {
                     rtmTokenString = "0069b82a4a719e24fe280fe652fe06f2f6bIADoGUgqGKvCsZa1tSi8r2C/axLiqIJhrb8QEGqq+Fz96oGTIMMAAAAAEACixWso7X9wZAEA6APtf3Bk";
                 }else if(uid.equals("1002")){
                     token = "007eJxTYLhg2ZLArbtBrfSK1YM0nynP85093MTPRP28FL8ua7GBdKkCg2WShVGiSaK5oWWqkUlaqpGFQVqqmalRWqqBWZpRmlmSmV5+SkMgI0PMYm1GRgZGBhYgBvGZwCQzmGQBk5wMhgYGhvFAwoiBAQCnOyBi";
-                    rtmTokenString = "0069b82a4a719e24fe280fe652fe06f2f6bIABGPPUBSp6BDTS00CMx/kvmdaCT8ZdnA++TIdVWNmWHxTvCKVoAAAAAEACixWsoAYBwZAEA6AMBgHBk";
+                    rtmTokenString = "0069b82a4a719e24fe280fe652fe06f2f6bIABDUA6WsaA8Lb9nSvuVf6WqM0H/Z2JYfGaQLf2T3VakLjvCKVoAAAAAEACixWsoYoVwZAEA6ANihXBk";
                 }
                 doLogin();
             }
